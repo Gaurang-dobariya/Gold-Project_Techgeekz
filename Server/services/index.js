@@ -1,0 +1,1 @@
+module.exports.goldService = require("./gold.service")

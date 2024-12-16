@@ -1,0 +1,1 @@
+module.exports.goldController = require("./gold.controller")

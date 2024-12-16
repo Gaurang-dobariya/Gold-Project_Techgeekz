@@ -1,0 +1,1 @@
+module.exports.goldSchema = require("./gold.model")
